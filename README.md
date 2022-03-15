@@ -1,19 +1,19 @@
 # Web1Lab1
 ## Belajar Tag Dasar HTML
 
-### Membuat Paragraf
+* Membuat Paragraf
 kode tag untuk paragraf adalah `<P>`
 
 ini adalah tampilannya
 ![Gambar 1](scrennshot/ss1.PNG)
 
-### Menambahkan judul
+* Menambahkan judul
 kode tag untuk judul adalah `<h1>`
 
 ini adalah tampilannya
 ![Gambar 2](scrennshot/ss2.PNG)
 
-### Memformat teks
+* Memformat teks
 Berikut tag yang digunakan untuk pemformatan teks
 *`<b>` -bold text
 *`<mark>` -Marked text
@@ -22,13 +22,13 @@ Berikut tag yang digunakan untuk pemformatan teks
 ini adalah tampilannya
 ![Gambar 3](scrennshot/ss3.PNG)
 
-### Menyisipkan Gambar
+* Menyisipkan Gambar
 kode tag untuk Gambar adalah `<img src="pilih gambar" />`
 
 ini adalah tampilannya
 ![Gambar 4](scrennshot/ss4.PNG)
 
-### Menambahkan Hyperlink
+* Menambahkan Hyperlink
 kode tag untuk hyperlink adalah
 `<nav>`
 `<a href="halaman 1">Dasar HTML</a>`
